@@ -1,7 +1,7 @@
 SC24 Workshop: High Performance Python for Science at Scale (HPPSS)
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-.. figure:: images/SC24-logo.png
+.. figure:: images/sc25_black_hor_flat@4x.png
    :align: center
    :scale: 70 %
 
@@ -21,9 +21,7 @@ practices and recent success stories, panel sessions that discuss details of imp
 sessions for hands-on enthusiasts – the workshop will serve as a requirements gathering exercise for the
 future of Python in HPC and science.
 
-Atlanta, Georgia, November 17-22, 2024
-
-HPPSS will take place on Monday, November 18th from 2 PM - 5:30 PM ET.
+St. Louis, November 16-21, 2025
 
 .. toctree::
     :caption: Contents
@@ -32,20 +30,18 @@ HPPSS will take place on Monday, November 18th from 2 PM - 5:30 PM ET.
     About <about.rst>
     Organization <organizers.rst>
     Call for Demos! <callfordemos.rst>
-    Schedule <schedule.rst>
-    Presentations <papers.rst>
     SC23 Workshop Site <https://hppss.github.io/SC23>
-    SC25 Workhsop Site <https://hppss.github.io/SC25>
+    SC24 Workhsop Site <https://hppss.github.io/SC24>
 
 
 Diversity and Inclusion
 =======================
 
-.. |SC24DI| raw:: html
+.. |SC25DI| raw:: html
 
-   <a href="https://sc24.supercomputing.org/attend/code-of-conduct/" target="_blank">SC24 Code of Conduct</a>
+   <a href="https://sc25.supercomputing.org/attend/code-of-conduct/" target="_blank">SC25 Code of Conduct</a>
 
-This workshop pledges to follow the SC24 Code of Conduct. Please visit the |SC24DI|.
+This workshop pledges to follow the SC25 Code of Conduct. Please visit the |SC25DI|.
 
 .. toctree::
     :maxdepth: 1
