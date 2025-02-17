@@ -29,7 +29,6 @@ St. Louis, November 16-21, 2025
 
     About <about.rst>
     Organization <organizers.rst>
-    Call for Demos! <callfordemos.rst>
     SC23 Workshop Site <https://hppss.github.io/SC23>
     SC24 Workhsop Site <https://hppss.github.io/SC24>
 
