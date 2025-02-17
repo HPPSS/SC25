@@ -1,4 +1,4 @@
-SC24 Workshop: High Performance Python for Science at Scale (HPPSS)
+SC25 Workshop: High Performance Python for Science at Scale (HPPSS)
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. figure:: images/sc25_black_hor_flat@4x.png
