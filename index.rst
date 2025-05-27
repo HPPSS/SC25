@@ -23,6 +23,8 @@ future of Python in HPC and science.
 
 St. Louis, November 16-21, 2025
 
+HPPSS will take place on Monday, November 17th.
+
 .. toctree::
     :caption: Contents
     :maxdepth: 1

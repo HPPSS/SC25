@@ -22,7 +22,7 @@ sys.path.insert(0, os.path.abspath("."))
 # -- Project information -----------------------------------------------------
 
 cdi = subprocess.check_output(["git", "--no-pager", "show", "-s", "--format='%h (%ci)'"]).strip().decode('utf-8').replace("'","")
-project = "SC24 Workshop: High Performance Python for Science at Scale"
+project = "SC25 Workshop: High Performance Python for Science at Scale"
 author = "Organizing Committee"
 copyright = f"{date.today().year}, {author} - {cdi}"
 
