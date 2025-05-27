@@ -74,7 +74,7 @@ Davin Potts (Appliomics)
 
 .. figure:: images/davin_potts.png
    :align: left
-   :Scale: 40%
+   :Scale: 35%
 
 Davin Potts currently runs Appliomics, LLC, a scientific software consultancy based in Austin. Davin's formal education is in Theoretical Chemistry but professional development led to his becoming a CPython Core Committer. He was previously a founder of Myria, a Y Combinator funded luxury services marketplace startup, co-founder of KNIME, a Zurich-based data mining and visualization startup, Chief Data Scientist at Continuum Analytics, an Austin-based Python language solutions startup, and Chief Science Officer at Stipple, a San Francisco-based image monetization startup. Davin holds 3 patents in the fields of bioinformatics, computer vision, machine learning, and edge computing.
 
