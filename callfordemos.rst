@@ -1,26 +1,24 @@
-Call for Demos!
-+++++++++++++++
+Call for Abstracts!
++++++++++++++++++++
 
-HPPSS is accepting submissions that demonstrate the application of a technology for greatly enhancing the performance
-and capability of Python at scale. Technologies that are applicable to a wide range of use-cases and accessible
-to a broad user base are of particular interest. Showing technologies applied to specific use-cases can be very
-helpful for the audience's understanding, but be sure to show and discuss how they generalize.
+HPPSS is accepting submissions for talks that demonstrate the application of a technology that greatly enhance the
+performance and capability of Python at scale. Technologies that are applicable to a wide range of use-cases and
+accessible to a broad user base are of particular interest. Showing technologies applied to specific use-cases can be
+very helpful for the audience's understanding, but be sure to show and discuss how they generalize.
 
-While we are accepting submissions to present at this year's workshop, note that submissions will not be
-included in the SC proceedings. The purpose of submissions are to help us plan the event and provide feedback to
-submitters. Our intention is that this makes it easier for submitters and we get a broader engagement from the
-community. We do plan to provide links to submissions through the HPPSS GitHub and website.
+Note that submissions will not be included in the SC proceedings. The purpose of the review process are to help us plan
+the event and provide feedback to submitters. Our intention is that this makes it easier for submitters and we get a
+broader engagement from the community. We plan to provide links to submissions through the HPPSS GitHub and website.
 
 
 Important Dates
 ===============
 
-* Submission opens: June 17, 2024
-* Paper Submission deadline: August 16, 2024
-* Decisions: September 6, 2024
-* Camera ready due: September 27, 2024
-* SC24 conference: November 17-22, 2024
-* HPPSS half-day workshop: afternoon of November 18th
+* Submission opens: July 14, 2025
+* Abstract submission deadline: September 15, 2025
+* Decisions: September 22, 2025
+* SC25 conference: November 16-21, 2025
+* HPPSS half-day workshop: afternoon of November 17th
 
 
 Interest Areas
@@ -36,77 +34,40 @@ Submissions in the following areas are well-suited for HPPSS:
 * Multi-processing for on-node and off-node configurations
 * Program execution including parallelization and asynchronous communication
 
+One focus area for this year is **observability**. Understanding progress, performance, and bottlenecks for dynamic
+Python workloads is challenging. We welcome submissions that include insights, tools, and use cases that focus on
+understanding "what is going on?" with Python at scale.
 
-Submission Format
-=================
-
-HPPSS will have two submission tracks this year
-
-* Demos
-* Works-in-progress
-
-Both tracks will feature work that is innovative and of significant interest to the community.
-
-
-Demos
------
-
-The Demo track is for more mature work and should be based on examples/code that is accessible to anyone in the
-audience. These submissions include a short paper (500-1000 words and 4 pages or less - includes figures, references do
-not count toward the page limit), demo recording, and
-presentation designed around the demo.
-
-See "Demo Video Submission" below for more information on how to provide the demo portion of the submission.
-
-Works-in-progress
------------------
-
-The Work-in-progress track is for work that may not be ready for community adoption but demonstrates the direction
-and would benefit from community feedback. These submissions include an abstract (250-500 words and 2 pages or less -
-includes figures, references do not count toward the page limit) and demo recording.
-
-See "Demo Video Submission" below for more information on how to provide the demo portion of the submission.
 
 How to Submit
 =============
 
-Short Paper or Abstract Submission
-----------------------------------
-
-.. |SC24Sub| raw:: html
-
-   <a href="    https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopHPPSSSubmission&site=sc24" target="_blank">SC24 HPPSS Workshop Submissions</a>
-
-
-.. |ACMTemp| raw:: html
-
-   <a href="https://www.acm.org/publications/proceedings-template" target="_blank">https://www.acm.org/publications/proceedings-template</a>
-
+Abstract Submission
+-------------------
 
 .. |HPPSSemail| raw:: html
 
    <a href="mailto:sc-ws-hppss@info.supercomputing.org" target="_blank">sc-ws-hppss@info.supercomputing.org</a>
 
-Submissions are either abstracts or 4-page short papers, including references and figures, depending on the track above.
-Templates and the ACM computing classification system can be found here: |ACMTemp|
+We are using a simplified submission process this year. Each presentation submission must include:
 
-For Latex users, version 1.90 (last update April 4, 2023) is the latest template, and please use the “sigconf” option.
+* short abstract (less than 100 words),
+* presentation description (less than 500 words),
+* links to other relevant material (e.g., demo recording, code, documentation, plots, etc)
+* speaker bio.
 
-You can create a submission at |SC24Sub|.
-
-Instructions for preparing papers for the proceedings will be emailed to authors of accepted papers. For queries
-concerning papers (submission, deadlines, publishing, etc.) please contact:
-
-|HPPSSemail|
+Reviews will focus on the presentation description. External links can be used to enhance the description and are a
+chance to give additional context and preview of your talk. We will provide an email address to send submissions to
+by July 14, 2025.
 
 
-Demo Video Submission
----------------------
+Optional Demo Video
+-------------------
 
 Video recordings of demos should be submitted through Zenodo. Submitted recordings should include audio commentary
 describing the demo and what is being shown. Submissions accepted to the conference will have an opportunity to produce
 an updated video that should not include commentary. The presenter should be prepared to describe the demo video as part
-of their presentation.
+of their presentation (ie don't just play the video and say nothing).
 
 We have created a Zenodo [1]_ community: `HPPSS – Zenodo <https://zenodo.org/communities/hppss>`__ for contributors to
 upload their video submissions for the workshop.
