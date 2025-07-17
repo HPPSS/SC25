@@ -47,7 +47,7 @@ Abstract Submission
 
 .. |HPPSSemail| raw:: html
 
-   <a href="mailto:sc-ws-hppss@info.supercomputing.org" target="_blank">sc-ws-hppss@info.supercomputing.org</a>
+   <a href="mailto:hppss@pyhpc.org" target="_blank">hppss@pyhpc.org</a>
 
 We are using a simplified submission process this year. Each presentation submission must include:
 
@@ -57,8 +57,9 @@ We are using a simplified submission process this year. Each presentation submis
 * speaker bio.
 
 Reviews will focus on the presentation description. External links can be used to enhance the description and are a
-chance to give additional context and preview of your talk. We will provide an email address to send submissions to
-by July 14, 2025.
+chance to give additional context and preview of your talk.
+
+**Submit abstracts via email to |HPPSSemail| by the end of the day (AoE) 9/15/2025.**
 
 
 Optional Demo Video
