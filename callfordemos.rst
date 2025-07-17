@@ -59,7 +59,7 @@ We are using a simplified submission process this year. Each presentation submis
 Reviews will focus on the presentation description. External links can be used to enhance the description and are a
 chance to give additional context and preview of your talk.
 
-**Submit abstracts via email to |HPPSSemail| by the end of the day (AoE) 9/15/2025.**
+**Submit abstracts via email to** |HPPSSemail| **by the end of the day (AoE) 9/15/2025.**
 
 
 Optional Demo Video
