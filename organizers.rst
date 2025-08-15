@@ -11,10 +11,11 @@ Pete Mendygral (Hewlett Packard Enterprise)
    :align: left
    :scale: 15 %
 
-Pete Mendygral is a Distinguished Technologist in the HPC&AI Cloud Services organization at HPE where he works on
-HPC in the cloud and technologies focused on productivity and efficiency for complex workloads and workflows.
-Pete received a PhD in astrophysics from the University of Minnesota in 2011, where he developed HPC applications to
-study outflows from supermassive blackholes.
+Pete Mendygral is a Distinguished Technologist in the HPC&AI organization at HPE where he works on
+distributed runtimes and other technologies focused on productivity and efficiency for complex workflows. He
+is the technical lead and architect for DragonHPC project and is passionate about helping researchers and communities
+succeed. Pete received a PhD in astrophysics from the University of Minnesota in 2011, where he developed HPC
+applications to study outflows from supermassive blackholes.
 
 |
 
