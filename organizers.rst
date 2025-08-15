@@ -97,6 +97,8 @@ Python open-source software community. He's most notably a co-creator of the Das
 Conda package manager, the SymPy symbolic computing library, and NumFOCUS foundation.
 
 |
+
+|
 Technical Program Committee
 ===========================
 
