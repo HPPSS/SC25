@@ -84,6 +84,18 @@ in the fields of bioinformatics, computer vision, machine learning, and edge com
 
 |
 
+Andy Terrel (NVIDIA)
+------------------------
+
+.. figure:: images/terrel.png
+   :align: left
+   :Scale: 35%
+
+Andy Terrel leads NVIDIA CUDA Python from the product management team. His research focused on domain-specific languages
+to generate high-performance code for physics simulations with the PETSc and FEniCS projects. Andy is a leader in the
+Python open-source software community. He's most notably a co-creator of the Dask distributed computing framework, the
+Conda package manager, the SymPy symbolic computing library, and NumFOCUS foundation.
+
 |
 Technical Program Committee
 ===========================
