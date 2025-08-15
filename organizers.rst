@@ -89,7 +89,7 @@ Andy Terrel (NVIDIA)
 
 .. figure:: images/terrel.png
    :align: left
-   :Scale: 35%
+   :Scale: 85%
 
 Andy Terrel leads NVIDIA CUDA Python from the product management team. His research focused on domain-specific languages
 to generate high-performance code for physics simulations with the PETSc and FEniCS projects. Andy is a leader in the
