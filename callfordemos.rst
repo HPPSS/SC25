@@ -18,7 +18,7 @@ Important Dates
 * Abstract submission deadline: September 15, 2025
 * Decisions: September 22, 2025
 * SC25 conference: November 16-21, 2025
-* HPPSS half-day workshop: afternoon of November 17th
+* HPPSS half-day workshop: afternoon of November 17th, 2-5:30 CST
 
 
 Interest Areas
