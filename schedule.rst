@@ -120,6 +120,8 @@ Michael earned his Bachelor of Science degree from San Jose State University in 
 
 Michael is now an HPC Engineer in the User Assistance group at the Oak Ridge Leadership Computing Facility (OLCF), with a particular interest in providing Python support for users of OLCF resources. As the quantum computing lead for User Assistance, he also manages the Quantum Computing User Program (QCUP) hubs and is helping pathfind Quantum Computing/HPC integration within OLCF.
 
+|
+
 
 Charlie Marsh
 -------------
