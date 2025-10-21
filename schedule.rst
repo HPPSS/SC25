@@ -137,6 +137,8 @@ Charlie is the founder of Astral, where he builds high-performance developer too
 
 |
 
+|
+
 Stan Seibert
 ------------
 
