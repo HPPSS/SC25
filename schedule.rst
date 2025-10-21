@@ -45,7 +45,7 @@ Katrina Riehl (Nvidia) - Featured Speaker
 
 .. figure:: images/riehl.jpg
    :align: left
-   :scale: 40 %
+   :scale: 30 %
 
 Dr. Katrina Riehl is a Principal Technical Product Manager at NVIDIA leading the CUDA Education program. For over two decades, Katrina has worked 
 extensively in the fields of scientific computing, machine learning, data science, and visualization. Most notably, she has helped lead data 
@@ -62,20 +62,23 @@ Shantenu Jha (Rutgers) - Invited Speaker
 
 .. figure:: images/jha.jpg
    :align: left
-   :scale: 40 %
+   :scale: 30 %
 
 Shantenu is a Professor of Computer Engineering at Rutgers University–New Brunswick and Head of Computational Sciences at the U.S. Department of 
 Energy’s Princeton Plasma Physics Laboratory, while also holding a concurrent appointment as a Research Scholar at Princeton University. His 
 research focuses on AI for Science using high-performance distributed computing. He is the recipient of the NSF CAREER Award (2013), the ACM 
 Gordon Bell Special Prize (2020), and numerous other best papers and honors, including the IEEE SCALE 2018 Award.
 
+|
+
+|
 
 Rosa M. Badia (Barcelona Supercomputing Center) - Invited Speaker
 =================================================================
 
 .. figure:: images/badia.jpg
    :align: left
-   :scale: 10 %
+   :scale: 8 %
 
 Rosa M. Badia holds a PhD in Computer Science (1994) from the Technical University of Catalonia (UPC). She is the director of the HPC software 
 research area and the manager of the Workflows and Distributed Computing research group, both roles at the Barcelona Supercomputing Center (BSC, Spain).
@@ -89,9 +92,6 @@ the EuroHPC project eFlows4HPC. She is a member of the EuroHPC JU RIAG and a mem
 Achievement Award 2019, the DonaTIC award, category Academia/Researcher in 2019 and the HPDC Achievement Award 2021. Since 2023 she is a member of 
 the Institut d'Estudis Catalans (Catalan academy). She is the chair of the ACM Europe Council since beginning of 2022.
 
-|
-
-|
 
 Panel
 =====
@@ -107,6 +107,10 @@ Todd Gamblin is a Distinguished Member of Technical Staff in the Livermore Compu
 
 Todd has been at LLNL since 2008. He received the Early Career Research Award from the U.S. Department of Energy in 2014, an R&D 100 award in 2019, and the LLNL Director's Science & Technology Award in 2020. He received Ph.D. and M.S. degrees in Computer Science from the University of North Carolina at Chapel Hill in 2009 and 2005, and his B.A. in Computer Science and Japanese from Williams College in 2002.
 
+|
+
+|
+
 
 Michael Sandoval
 ----------------
@@ -119,6 +123,9 @@ Michael earned his Bachelor of Science degree from San Jose State University in 
 
 Michael is now an HPC Engineer in the User Assistance group at the Oak Ridge Leadership Computing Facility (OLCF), with a particular interest in providing Python support for users of OLCF resources. As the quantum computing lead for User Assistance, he also manages the Quantum Computing User Program (QCUP) hubs and is helping pathfind Quantum Computing/HPC integration within OLCF.
 
+|
+
+|
 
 Charlie Marsh
 -------------
@@ -129,13 +136,18 @@ Charlie Marsh
 
 Charlie is the founder of Astral, where he builds high-performance developer tools for the Python ecosystem. Over the past two years, he's launched Ruff — a Python linter, formatter, and code transformation tool — and uv, a next-generation Python package and project manager. Together, these tools have grown to over one hundred million downloads per month and seen rapid adoption across open source and enterprise. Charlie received a BSc in Computer Science from Princeton University and lives in Brooklyn, NY.
 
+|
+
+|
+
+|
 
 Stan Seibert
 ------------
 
 .. figure:: images/stanley_seibert.jpg
    :align: left
-   :scale: 80 %
+   :scale: 100 %
 
 Stan leads the Community Innovation team at Anaconda, where his work focuses on high-performance GPU computing and designing data analysis, simulation, and processing pipelines. He is a longtime advocate of the use of Python and GPU computing for research. Prior to joining Anaconda, Stan served as Chief Data Scientist at Mobi, where he worked on vehicle fleet tracking and route planning.
 
