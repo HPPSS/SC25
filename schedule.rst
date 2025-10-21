@@ -107,8 +107,6 @@ Todd Gamblin is a Distinguished Member of Technical Staff in the Livermore Compu
 
 Todd has been at LLNL since 2008. He received the Early Career Research Award from the U.S. Department of Energy in 2014, an R&D 100 award in 2019, and the LLNL Director's Science & Technology Award in 2020. He received Ph.D. and M.S. degrees in Computer Science from the University of North Carolina at Chapel Hill in 2009 and 2005, and his B.A. in Computer Science and Japanese from Williams College in 2002.
 
-|
-
 
 Michael Sandoval
 ----------------
@@ -121,7 +119,6 @@ Michael earned his Bachelor of Science degree from San Jose State University in 
 
 Michael is now an HPC Engineer in the User Assistance group at the Oak Ridge Leadership Computing Facility (OLCF), with a particular interest in providing Python support for users of OLCF resources. As the quantum computing lead for User Assistance, he also manages the Quantum Computing User Program (QCUP) hubs and is helping pathfind Quantum Computing/HPC integration within OLCF.
 
-|
 
 Charlie Marsh
 -------------
@@ -131,8 +128,6 @@ Charlie Marsh
    :scale: 10 %
 
 Charlie is the founder of Astral, where he builds high-performance developer tools for the Python ecosystem. Over the past two years, he's launched Ruff — a Python linter, formatter, and code transformation tool — and uv, a next-generation Python package and project manager. Together, these tools have grown to over one hundred million downloads per month and seen rapid adoption across open source and enterprise. Charlie received a BSc in Computer Science from Princeton University and lives in Brooklyn, NY.
-
-|
 
 |
 
@@ -148,6 +143,8 @@ Stan Seibert
 Stan leads the Community Innovation team at Anaconda, where his work focuses on high-performance GPU computing and designing data analysis, simulation, and processing pipelines. He is a longtime advocate of the use of Python and GPU computing for research. Prior to joining Anaconda, Stan served as Chief Data Scientist at Mobi, where he worked on vehicle fleet tracking and route planning.
 
 Stan received a PhD in experimental high energy physics from the University of Texas at Austin and performed research at Los Alamos National Laboratory, University of Pennsylvania, and the Sudbury Neutrino Observatory.
+
+|
 
 |
 
