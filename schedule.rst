@@ -109,8 +109,6 @@ Todd has been at LLNL since 2008. He received the Early Career Research Award fr
 
 |
 
-|
-
 
 Michael Sandoval
 ----------------
@@ -122,8 +120,6 @@ Michael Sandoval
 Michael earned his Bachelor of Science degree from San Jose State University in 2015, where he majored in Physics and minored in both Math and Astronomy. He then received his Physics Ph.D. in 2021 from the University of Tennessee, Knoxville where he studied the late-time evolution of core-collapse supernovae. His work involved running simulations on multiple HPC systems, including Titan and Summit, while visualizing data on Rhea and Andes using Python-based tools like VisIt and Blender.
 
 Michael is now an HPC Engineer in the User Assistance group at the Oak Ridge Leadership Computing Facility (OLCF), with a particular interest in providing Python support for users of OLCF resources. As the quantum computing lead for User Assistance, he also manages the Quantum Computing User Program (QCUP) hubs and is helping pathfind Quantum Computing/HPC integration within OLCF.
-
-|
 
 |
 
@@ -153,7 +149,9 @@ Stan leads the Community Innovation team at Anaconda, where his work focuses on 
 
 Stan received a PhD in experimental high energy physics from the University of Texas at Austin and performed research at Los Alamos National Laboratory, University of Pennsylvania, and the Sudbury Neutrino Observatory.
 
+|
 
+|
 
 Presentations
 =============
