@@ -52,6 +52,10 @@ extensively in the fields of scientific computing, machine learning, data scienc
 initiatives at the University of Texas Austin Applied Research Laboratory, Anaconda, Apple, Expedia Group, Cloudflare, and Snowflake. She is an 
 active volunteer in the Python open-source scientific software community and currently serves on the Advisory Council for NumFOCUS.
 
+|
+
+|
+
 
 Shantenu Jha (Rutgers) - Invited Speaker
 ========================================
@@ -71,7 +75,7 @@ Rosa M. Badia (Barcelona Supercomputing Center) - Invited Speaker
 
 .. figure:: images/badia.jpg
    :align: left
-   :scale: 20 %
+   :scale: 10 %
 
 Rosa M. Badia holds a PhD in Computer Science (1994) from the Technical University of Catalonia (UPC). She is the director of the HPC software 
 research area and the manager of the Workflows and Distributed Computing research group, both roles at the Barcelona Supercomputing Center (BSC, Spain).
@@ -85,6 +89,9 @@ the EuroHPC project eFlows4HPC. She is a member of the EuroHPC JU RIAG and a mem
 Achievement Award 2019, the DonaTIC award, category Academia/Researcher in 2019 and the HPDC Achievement Award 2021. Since 2023 she is a member of 
 the Institut d'Estudis Catalans (Catalan academy). She is the chair of the ACM Europe Council since beginning of 2022.
 
+|
+
+|
 
 Panel
 =====
@@ -94,7 +101,7 @@ Todd Gamblin
 
 .. figure:: images/gamblin.jpg
    :align: left
-   :scale: 80 %
+   :scale: 100 %
 
 Todd Gamblin is a Distinguished Member of Technical Staff in the Livermore Computing division at Lawrence Livermore National Laboratory. He created Spack, a popular open source HPC package management tool with a rapidly growing community of contributors. He leads the Packaging Technologies Project in the U.S. Exascale Computing Project, LLNL's DevRAMP project on developer productivity, and BUILD, a Strategic Initiative on software integration. His research interests include dependency management, open source, software engineering, parallel computing, performance measurement, and performance analysis.
 
@@ -106,7 +113,7 @@ Michael Sandoval
 
 .. figure:: images/Sandoval_headshot_sc.jpg
    :align: left
-   :scale: 20 %
+   :scale: 10 %
 
 Michael earned his Bachelor of Science degree from San Jose State University in 2015, where he majored in Physics and minored in both Math and Astronomy. He then received his Physics Ph.D. in 2021 from the University of Tennessee, Knoxville where he studied the late-time evolution of core-collapse supernovae. His work involved running simulations on multiple HPC systems, including Titan and Summit, while visualizing data on Rhea and Andes using Python-based tools like VisIt and Blender.
 
@@ -118,7 +125,7 @@ Charlie Marsh
 
 .. figure:: images/CharlieMarsh.jpg
    :align: left
-   :scale: 60 %
+   :scale: 10 %
 
 Charlie is the founder of Astral, where he builds high-performance developer tools for the Python ecosystem. Over the past two years, he's launched Ruff — a Python linter, formatter, and code transformation tool — and uv, a next-generation Python package and project manager. Together, these tools have grown to over one hundred million downloads per month and seen rapid adoption across open source and enterprise. Charlie received a BSc in Computer Science from Princeton University and lives in Brooklyn, NY.
 
@@ -128,7 +135,7 @@ Stan Seibert
 
 .. figure:: images/stanley_seibert.jpg
    :align: left
-   :scale: 20 %
+   :scale: 80 %
 
 Stan leads the Community Innovation team at Anaconda, where his work focuses on high-performance GPU computing and designing data analysis, simulation, and processing pipelines. He is a longtime advocate of the use of Python and GPU computing for research. Prior to joining Anaconda, Stan served as Chief Data Scientist at Mobi, where he worked on vehicle fleet tracking and route planning.
 
