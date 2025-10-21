@@ -45,7 +45,7 @@ Katrina Riehl (Nvidia) - Featured Speaker
 
 .. figure:: images/riehl.jpg
    :align: left
-   :scale: 60 %
+   :scale: 40 %
 
 Dr. Katrina Riehl is a Principal Technical Product Manager at NVIDIA leading the CUDA Education program. For over two decades, Katrina has worked 
 extensively in the fields of scientific computing, machine learning, data science, and visualization. Most notably, she has helped lead data 
@@ -58,7 +58,7 @@ Shantenu Jha (Rutgers) - Invited Speaker
 
 .. figure:: images/jha.jpg
    :align: left
-   :scale: 60 %
+   :scale: 40 %
 
 Shantenu is a Professor of Computer Engineering at Rutgers University–New Brunswick and Head of Computational Sciences at the U.S. Department of 
 Energy’s Princeton Plasma Physics Laboratory, while also holding a concurrent appointment as a Research Scholar at Princeton University. His 
@@ -71,7 +71,7 @@ Rosa M. Badia (Barcelona Supercomputing Center) - Invited Speaker
 
 .. figure:: images/badia.jpg
    :align: left
-   :scale: 60 %
+   :scale: 20 %
 
 Rosa M. Badia holds a PhD in Computer Science (1994) from the Technical University of Catalonia (UPC). She is the director of the HPC software 
 research area and the manager of the Workflows and Distributed Computing research group, both roles at the Barcelona Supercomputing Center (BSC, Spain).
@@ -94,7 +94,7 @@ Todd Gamblin
 
 .. figure:: images/gamblin.jpg
    :align: left
-   :scale: 60 %
+   :scale: 80 %
 
 Todd Gamblin is a Distinguished Member of Technical Staff in the Livermore Computing division at Lawrence Livermore National Laboratory. He created Spack, a popular open source HPC package management tool with a rapidly growing community of contributors. He leads the Packaging Technologies Project in the U.S. Exascale Computing Project, LLNL's DevRAMP project on developer productivity, and BUILD, a Strategic Initiative on software integration. His research interests include dependency management, open source, software engineering, parallel computing, performance measurement, and performance analysis.
 
@@ -106,7 +106,7 @@ Michael Sandoval
 
 .. figure:: images/Sandoval_headshot_sc.jpg
    :align: left
-   :scale: 60 %
+   :scale: 20 %
 
 Michael earned his Bachelor of Science degree from San Jose State University in 2015, where he majored in Physics and minored in both Math and Astronomy. He then received his Physics Ph.D. in 2021 from the University of Tennessee, Knoxville where he studied the late-time evolution of core-collapse supernovae. His work involved running simulations on multiple HPC systems, including Titan and Summit, while visualizing data on Rhea and Andes using Python-based tools like VisIt and Blender.
 
@@ -128,7 +128,7 @@ Stan Seibert
 
 .. figure:: images/stanley_seibert.jpg
    :align: left
-   :scale: 60 %
+   :scale: 20 %
 
 Stan leads the Community Innovation team at Anaconda, where his work focuses on high-performance GPU computing and designing data analysis, simulation, and processing pipelines. He is a longtime advocate of the use of Python and GPU computing for research. Prior to joining Anaconda, Stan served as Chief Data Scientist at Mobi, where he worked on vehicle fleet tracking and route planning.
 
