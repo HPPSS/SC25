@@ -39,6 +39,7 @@ HPPSS will take place on Monday, November 17th from 2 PM - 5:30 PM CST in room 2
 | Everyone                                                  |                                                             |                     |
 +-----------------------------------------------------------+-------------------------------------------------------------+---------------------+
 
+|
 
 Katrina Riehl (Nvidia) - Featured Speaker
 =========================================
@@ -143,8 +144,6 @@ Stan Seibert
 Stan leads the Community Innovation team at Anaconda, where his work focuses on high-performance GPU computing and designing data analysis, simulation, and processing pipelines. He is a longtime advocate of the use of Python and GPU computing for research. Prior to joining Anaconda, Stan served as Chief Data Scientist at Mobi, where he worked on vehicle fleet tracking and route planning.
 
 Stan received a PhD in experimental high energy physics from the University of Texas at Austin and performed research at Los Alamos National Laboratory, University of Pennsylvania, and the Sudbury Neutrino Observatory.
-
-|
 
 |
 
